@@ -1,0 +1,4 @@
+﻿before [{'macro type': 'E-Stop 1.0', 'macro signal': 'EStop_Ch1', 'rule': nan, 'field': 'name', 'active': 'yes'}]
+rule col rule
+after [{'macro type': 'E-Stop 1.0', 'macro signal': 'EStop_Ch1', 'rule': nan, 'field': 'name', 'active': 'yes'}]
+rule values [nan]

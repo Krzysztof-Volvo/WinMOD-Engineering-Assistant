@@ -1,0 +1,7 @@
+﻿sheet Sheet1
+headers ['macro type', 'macro signal', 'rule', 'field', 'active']
+row 2 ['E-Stop 1.0', 'EStop_Ch1', '=F9-SGC', 'name', 'yes'] ['s', 's', 'f', 's', 's']
+ formula cell 2 3 =F9-SGC
+row 3 [None, None, None, None, None] ['n', 'n', 'n', 'n', 'n']
+row 4 [None, None, None, None, None] ['n', 'n', 'n', 'n', 'n']
+row 5 [None, None, None, None, None] ['n', 'n', 'n', 'n', 'n']
